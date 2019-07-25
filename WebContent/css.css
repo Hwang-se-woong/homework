@@ -1,0 +1,83 @@
+body{
+  background : #abd0bc;
+  text-align : center;
+}
+
+header > div {
+  /* border:10px solid; */
+  padding : 10px;
+  background : #ffffff;
+  text-align: right;
+}
+
+header > div > button{
+  box-sizing: border-box;
+  width: 85px;
+  height: 30px; 
+  background : #a8c5cc;
+  text-color : #ffffff;
+  border: 10px;
+  box-shadow: 3px 3px #888888;
+}
+
+header > div > button > a{
+	color : #ab007f;
+	font-weight: normal;
+}
+
+body > div {
+  background : #ffffff;
+  margin-top :10px;
+  /*padding : 115px;*/
+  width : initial;
+  box-sizing: border-box;
+  padding :10px;
+  
+}
+
+body > div > p{
+	font-size : 13px;
+}
+
+body > div > div > button {
+  box-sizing: border-box;
+  width: 100px;
+  height: 100px; 
+  background : #a8c5cc;
+  border: 10px;
+  box-shadow: 3px 3px #888888
+}
+
+body > div > div >button > a{
+	color : #ffffff;
+	font-style: bord;
+	font-size : 20px;
+}
+
+body > div > img{
+	margin-top : 10px;
+}
+
+
+footer {
+  background : #ffffff;
+  color : #a8c5cc;
+  font-size : 12px;
+  padding : 10px;
+  margin-top : 10px;
+  box-sizing : border-box;
+}
+
+body > div > h3 {
+  text-align : left;
+  line-height: 0px;
+  
+}
+
+.bodytext{
+   text-align : left;
+}
+
+a {
+  text-decoration : none;
+}
